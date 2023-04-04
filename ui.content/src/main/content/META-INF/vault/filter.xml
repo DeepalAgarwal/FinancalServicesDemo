@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/abcfinancialservices" mode="merge"/>
+    <filter root="/content/abcfinancialservices" mode="merge"/>
+    <filter root="/content/dam/abcfinancialservices/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/abcfinancialservices" mode="merge"/>
+</workspaceFilter>

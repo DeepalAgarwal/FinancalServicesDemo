@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/abcfinancialservices/clientlibs"/>
+    <filter root="/apps/abcfinancialservices/components"/>
+    <filter root="/apps/abcfinancialservices/i18n"/>
+</workspaceFilter>
